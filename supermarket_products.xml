@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<Aldi>
+		<direccion>ALDI, C. de Jorge Juan, 129, 28009 Madrid</direccion>
+		<geolocalización>40.42501622770982, -3.66964571658319</geolocalización>
+		<productos>
+			<nombre>manzanas</nombre>
+			<oferta>true</oferta>
+			<periodo_de_vigencia>17/04/2023</periodo_de_vigencia>
+			<producto_habitual_de_consumo_sin_oferta>true</producto_habitual_de_consumo_sin_oferta>
+			<unidades>1</unidades>
+			<unidad_de_medida>kg</unidad_de_medida>
+			<precio>3.27</precio>
+			<adquirido>false</adquirido>
+		</productos>
+		<productos>
+			<nombre>limones</nombre>
+			<oferta>false</oferta>
+			<periodo_de_vigencia>04/05/2023</periodo_de_vigencia>
+			<producto_habitual_de_consumo_sin_oferta>true</producto_habitual_de_consumo_sin_oferta>
+			<unidades>1</unidades>
+			<unidad_de_medida>barras</unidad_de_medida>
+			<precio>0.57</precio>
+			<adquirido>true</adquirido>
+		</productos>
+		<productos>
+			<nombre>fresas</nombre>
+			<oferta>false</oferta>
+			<periodo_de_vigencia>17/05/2023</periodo_de_vigencia>
+			<producto_habitual_de_consumo_sin_oferta>false</producto_habitual_de_consumo_sin_oferta>
+			<unidades>1</unidades>
+			<unidad_de_medida>kg</unidad_de_medida>
+			<precio>1.27</precio>
+			<adquirido>false</adquirido>
+		</productos>
+		<productos>
+			<nombre>filetes de pavo</nombre>
+			<oferta>true</oferta>
+			<periodo_de_vigencia>17/04/2023</periodo_de_vigencia>
+			<producto_habitual_de_consumo_sin_oferta>true</producto_habitual_de_consumo_sin_oferta>
+			<unidades>1</unidades>
+			<unidad_de_medida>kg</unidad_de_medida>
+			<precio>3.27</precio>
+			<adquirido>false</adquirido>
+		</productos>
+	</Aldi>
+	<Carrefour>
+		<direccion>Calle de Fuencarral, 158, 28010 Madrid</direccion>
+		<geolocalización>40.43534974037197, -3.7039395431939184</geolocalización>
+		<productos>
+			<nombre>tomate rama</nombre>
+			<oferta>true</oferta>
+			<periodo_de_vigencia>17/04/2023</periodo_de_vigencia>
+			<producto_habitual_de_consumo_sin_oferta>true</producto_habitual_de_consumo_sin_oferta>
+			<unidades>1</unidades>
+			<unidad_de_medida>kg</unidad_de_medida>
+			<precio>3.27</precio>
+			<adquirido>false</adquirido>
+		</productos>
+		<productos>
+			<nombre>melocotón</nombre>
+			<oferta>false</oferta>
+			<periodo_de_vigencia>04/05/2023</periodo_de_vigencia>
+			<producto_habitual_de_consumo_sin_oferta>true</producto_habitual_de_consumo_sin_oferta>
+			<unidades>1</unidades>
+			<unidad_de_medida>barras</unidad_de_medida>
+			<precio>0.57</precio>
+			<adquirido>true</adquirido>
+		</productos>
+		<productos>
+			<nombre>manzanas</nombre>
+			<oferta>false</oferta>
+			<periodo_de_vigencia>17/04/2023</periodo_de_vigencia>
+			<producto_habitual_de_consumo_sin_oferta>false</producto_habitual_de_consumo_sin_oferta>
+			<unidades>4</unidades>
+			<unidad_de_medida>kg</unidad_de_medida>
+			<precio>3.27</precio>
+			<adquirido>false</adquirido>
+		</productos>
+		<productos>
+			<nombre>bacalao</nombre>
+			<oferta>true</oferta>
+			<periodo_de_vigencia>17/04/2023</periodo_de_vigencia>
+			<producto_habitual_de_consumo_sin_oferta>true</producto_habitual_de_consumo_sin_oferta>
+			<unidades>1</unidades>
+			<unidad_de_medida>kg</unidad_de_medida>
+			<precio>3.27</precio>
+			<adquirido>false</adquirido>
+		</productos>
+		<productos>
+			<nombre>truchas</nombre>
+			<oferta>false</oferta>
+			<periodo_de_vigencia>04/05/2023</periodo_de_vigencia>
+			<producto_habitual_de_consumo_sin_oferta>true</producto_habitual_de_consumo_sin_oferta>
+			<unidades>1</unidades>
+			<unidad_de_medida>barras</unidad_de_medida>
+			<precio>0.57</precio>
+			<adquirido>true</adquirido>
+		</productos>
+	</Carrefour>
+</root>

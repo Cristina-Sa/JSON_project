@@ -1,0 +1,102 @@
+{
+    "Aldi": [{
+        "direccion": "ALDI, C. de Jorge Juan, 129, 28009 Madrid",
+        "geolocalización": "40.42501622770982, -3.66964571658319",
+        "productos": [{
+                "nombre": "manzanas",
+                "oferta": true,
+                "periodo_de_vigencia": "17/04/2023",
+                "producto_habitual_de_consumo_sin_oferta": true,
+                "unidades": 1,
+                "unidad_de_medida": "kg",
+                "precio": 3.27,
+                "adquirido": false
+            },
+            {
+                "nombre": "limones",
+                "oferta": false,
+                "periodo_de_vigencia": "04/05/2023",
+                "producto_habitual_de_consumo_sin_oferta": true,
+                "unidades": 1,
+                "unidad_de_medida": "barras",
+                "precio": 0.57,
+                "adquirido": true
+            },
+            {
+                "nombre": "fresas",
+                "oferta": false,
+                "periodo_de_vigencia": "17/05/2023",
+                "producto_habitual_de_consumo_sin_oferta": false,
+                "unidades": 1,
+                "unidad_de_medida": "kg",
+                "precio": 1.27,
+                "adquirido": false
+            },
+            {
+                "nombre": "filetes de pavo",
+                "oferta": true,
+                "periodo_de_vigencia": "17/04/2023",
+                "producto_habitual_de_consumo_sin_oferta": true,
+                "unidades": 1,
+                "unidad_de_medida": "kg",
+                "precio": 3.27,
+                "adquirido": false
+            }
+        ]
+    }],
+    "Carrefour": [{
+        "direccion": "Calle de Fuencarral, 158, 28010 Madrid",
+        "geolocalización": "40.43534974037197, -3.7039395431939184",
+        "productos": [{
+                "nombre": "tomate rama",
+                "oferta": true,
+                "periodo_de_vigencia": "17/04/2023",
+                "producto_habitual_de_consumo_sin_oferta": true,
+                "unidades": 1,
+                "unidad_de_medida": "kg",
+                "precio": 3.27,
+                "adquirido": false
+            },
+            {
+                "nombre": "melocotón",
+                "oferta": false,
+                "periodo_de_vigencia": "04/05/2023",
+                "producto_habitual_de_consumo_sin_oferta": true,
+                "unidades": 1,
+                "unidad_de_medida": "barras",
+                "precio": 0.57,
+                "adquirido": true
+            },
+            {
+                "nombre": "manzanas",
+                "oferta": false,
+                "periodo_de_vigencia": "17/04/2023",
+                "producto_habitual_de_consumo_sin_oferta": false,
+                "unidades": 4,
+                "unidad_de_medida": "kg",
+                "precio": 3.27,
+                "adquirido": false
+            },
+            {
+                "nombre": "bacalao",
+                "oferta": true,
+                "periodo_de_vigencia": "17/04/2023",
+                "producto_habitual_de_consumo_sin_oferta": true,
+                "unidades": 1,
+                "unidad_de_medida": "kg",
+                "precio": 3.27,
+                "adquirido": false
+            },
+            {
+                "nombre": "truchas",
+                "oferta": false,
+                "periodo_de_vigencia": "04/05/2023",
+                "producto_habitual_de_consumo_sin_oferta": true,
+                "unidades": 1,
+                "unidad_de_medida": "barras",
+                "precio": 0.57,
+                "adquirido": true
+            }
+        ]
+    }]
+}
